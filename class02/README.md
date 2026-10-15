@@ -56,7 +56,7 @@ The hub of desktop publishing. It is the final assembly, it is designed specific
 * .EPUG / Images (.JPEG, .PNG) -> Alternative export format, avpide for printing.
 * .INDT -> InDesign Template, used for creating predefined layout templates that cannot be accidentally overwritten.
 
-## Adobe Acrobat
+### Adobe Acrobat
 
 Is the universal and independent standard for reliable document exchange. It guarantees perfect visual uniformity on every device or operating system.
 
