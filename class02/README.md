@@ -56,3 +56,16 @@ The hub of desktop publishing. It is the final assembly, it is designed specific
 * .EPUG / Images (.JPEG, .PNG) -> Alternative export format, avpide for printing.
 * .INDT -> InDesign Template, used for creating predefined layout templates that cannot be accidentally overwritten.
 
+## Adobe Acrobat
+
+Is the universal and independent standard for reliable document exchange. It guarantees perfect visual uniformity on every device or operating system.
+
+#### File formats
+
+* .PDF -> Native format, designed to present documents consistently across different platforms and devices.
+* .PDF/A -> for long term document archiving, disables interactive features or unembedded external fonts.
+* .PDF/E -> For technical and engineering documentation (3D models and CAD diagrams)
+* .PDF/UA -> Universal accessibility to ensure correct reading by screen readers for visually impaired people and others.
+* .PDF/X-4 -> Mandatory standard for commercial printing, it mandates the inclusion of bleeds, manages output color profiles and supports native transparency.
+
+> Victionary (2023) - Printable: Printing techniques and effects in visual design
