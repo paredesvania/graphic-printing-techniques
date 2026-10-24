@@ -22,3 +22,5 @@ Which **color space** should I use?
 > CMYK - recommended profile is FOGRA39
 
 
+17x24 1cm 10 per side
+
