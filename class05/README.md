@@ -22,3 +22,12 @@ Presentation that includes:
 And the files:
 
 * Ready-to-print files (Adobe Illustrator and Acrobat PDF/X)
+
+### Ideas 
+
+1. Silk printing - Tote-bags or T-shirts
+2. Presentation card
+3. Poster / Flyer
+4. pin / water bottle
+5. Stickers(?
+   
